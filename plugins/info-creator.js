@@ -4,7 +4,7 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 let name = await conn.getName(who)
 
   const sentMsg = await conn.sendContactArray(m.chat, [
-    [`${nomorwa}`, `${await conn.getName(nomorwa+'@s.whatsapp.net')}`, `Myuko `, `My Skill Just Copas`, `admin@myuko.xyz`, `Indonesia`, `instagram.com/@thisapin_`, `Developer AYAKA - MD`]
+    [`${nomorwa}`, `${await conn.getName(nomorwa+'@s.whatsapp.net')}`, `xf4isal `, `My Skill Just Copas`, `pubgfais2r@gmail.com`, `Indonesia`, `instagram.com/@xf4isal_`, `Developer x-Media - MD`]
   ], m)
   } 
 
